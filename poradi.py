@@ -1,6 +1,6 @@
 # Hodnoty byly vkládány v pořadí "1, 3, 2, 4, 5"
 # 
-# Nejsou seřazené, aby bylo vydět, že set hodnoty neukádá tak jak byly vloženy.
+# Nejsou seřazené, aby bylo vidět, že set hodnoty neukádá tak jak byly vloženy.
 # Stejný problém je také v úloze seřazení.
 
 tuple = (1, 3, 2, 5, 4)
